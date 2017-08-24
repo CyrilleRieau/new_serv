@@ -1,0 +1,30 @@
+{
+  "name": "new_serv",
+  "version": "0.0.1",
+  "description": "Node Serv et Post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilleRieau/new_serv.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Cyrille Rieau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyrilleRieau/new_serv/issues"
+  },
+  "homepage": "https://github.com/CyrilleRieau/new_serv#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-basic-auth": "^1.1.2",
+    "http-auth": "^3.2.3",
+    "mustache": "^2.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
